@@ -8,7 +8,7 @@ Please note: this governance system is highly experimental. Please treat it as a
 
 # Credits
 
-In order of beginning work on this governance model, listed with important contributions:
+Listed in order of the time each contributor began work on this model:
 
 - elsehow
 - meow
