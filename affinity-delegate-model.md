@@ -13,7 +13,7 @@ Test cases:
 
 - The Guiding Body must be composed only of delegates elected from affinity groups.
 - The Guiding Body consists of any number of delegates.
-- With a proposal that passes a vote (see below):
+- With a proposal that passes a vote (see Voting on proposals):
 	- The Guiding Body can exert absolute and arbitrary power over the rhizome, including changing any test case of the rhizome.
 
 ## Affinity groups
@@ -25,17 +25,19 @@ Test cases:
 - There can be any number of affinity groups.
 - A contributor can join any affinity group at any time, so long as they have not been banned from that affinity group.
 - Leaving a three-contributor affinity group dissolves it and recalls its delegate.
-- With a proposal that passes a vote (see below):
+- With a proposal that passes a vote (see Voting on proposals):
 	- An affinity group can elect and recall a single delegate to and from the Guiding Body. 
 	- An affinity groups can ban/exile a member from the affinity group.
 	- An affinity group can add a contributor outside the rhizome to their affinity group.
 	- Affinity groups can vote to "nest" - to split into multiple, lower-level affinity groups, each of which elects a delegate to the higher-level affinity group.
 	
 ## Voting on proposals
+
 Test cases:
-	- You can only vote on proposals launched while you were a member of the body in question (e.g., you cannot join an affinity group and vote on an existing proposal).
-	- You must be a member of a body to vote on a proposal in it (e.g., you cannot vote on a proposal in affinity group you are no longer in simply because the proposal launched while you were there).
-	- When two-thirds of the voting weight votes yes, a proposal passes immediately. 
+
+- You can only vote on proposals launched while you were a member of the body in question (e.g., you cannot join an affinity group and vote on an existing proposal).
+- You must be a member of a body to vote on a proposal in it (e.g., you cannot vote on a proposal in affinity group you are no longer in simply because the proposal launched while you were there).
+- When two-thirds of the voting weight votes yes, a proposal passes immediately. 
 
 # FAQ
 - **Why two thirds?** A two-thirds voting threshold is a compromise between consensus and simple majority. It's commonly used in all manner of decision-making bodies.
