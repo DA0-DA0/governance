@@ -6,7 +6,7 @@ In an affinity-delegate model, the organizational structure is the **rhizome**.
 - Affinity groups elect **delegates** to serve on the **Guiding Body**, which can exert absolute power over the rhizome.
 - A contributor can leave the rhizome at any time.
 
-Everyone in the rhizome is a contributor, and every contributor is a member of an affinity group. Some contributors serve as delegates to the Guiding Body.
+Note: everyone in the rhizome is a contributor. Some contributors serve as delegates to the Guiding Body. 
 
 ## Guiding Body 
 Test cases:
@@ -26,7 +26,7 @@ Test cases:
 - A contributor can join any affinity group at any time, so long as they have not been banned from that affinity group.
 - Leaving a three-contributor affinity group dissolves it and recalls its delegate.
 - With a proposal that passes a vote (see Voting on proposals):
-	- An affinity group can elect and recall a single delegate to and from the Guiding Body. 
+	- An affinity group can elect and recall a single delegate selected from among its members to and from the Guiding Body. 
 	- An affinity groups can ban/exile a member from the affinity group.
 	- An affinity group can add a contributor outside the rhizome to their affinity group.
 	- Affinity groups can vote to "nest" - to split into multiple, lower-level affinity groups, each of which elects a delegate to the higher-level affinity group.
