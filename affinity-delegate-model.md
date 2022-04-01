@@ -14,7 +14,7 @@ Test cases:
 - The Guiding Body must be composed only of delegates elected from affinity groups.
 - The Guiding Body consists of any number of delegates.
 - With a proposal that passes a vote (see Voting on proposals):
-	- The Guiding Body can exert absolute and arbitrary power over the rhizome, including changing any test case of the rhizome.
+	- The Guiding Body can exert absolute power over the rhizome, including the power to change these rules.
 
 ## Affinity groups
 Test cases:
