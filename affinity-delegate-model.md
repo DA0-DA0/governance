@@ -27,7 +27,7 @@ Test cases:
 - Leaving a three-contributor affinity group dissolves it and recalls its delegate.
 - With a proposal that passes a vote (see Voting on proposals):
 	- An affinity group can elect and recall a single delegate selected from among its members to and from the Guiding Body. 
-	- An affinity groups can ban a member from the affinity group.
+	- An affinity groups can ban a contributor from the affinity group.
 	- An affinity group can add a contributor outside the rhizome to their affinity group.
 	- Affinity groups can vote to "nest" - to split into multiple, lower-level affinity groups, each of which elects a delegate to the higher-level affinity group.
 	
@@ -35,15 +35,15 @@ Test cases:
 
 Test cases:
 
-- You can only vote on proposals launched while you were a member of the body in question (e.g., you cannot join an affinity group and vote on an existing proposal).
-- You must be a member of a body to vote on a proposal in it (e.g., you cannot vote on a proposal in affinity group you are no longer in simply because the proposal launched while you were there).
+- Contributors can only vote on proposals launched while they were a member of the body in question (e.g., a contributor cannot join an affinity group and vote on an existing proposal).
+- Contributors must be a member of a body to vote on a proposal in it (e.g., a contributor cannot vote on a proposal in affinity group they are no longer in simply because the proposal launched while they were a member).
 - When two-thirds of the voting weight votes yes, a proposal passes immediately. 
 
 # FAQ
 - **Why two thirds?** A two-thirds voting threshold is a compromise between consensus and simple majority. It's commonly used in all manner of decision-making bodies.
 - **Why is it allowed to have only one delegate to the Guiding Body?** The voting threshold is 2/3. That said, a vote from an autocrat is *technically* a 100% yes vote. If the rhizome chooses to create a Guiding Body of one delegate, they are permitted to do so.
 - **Why a minimum of three in affinity groups?** Why not one? With a minimum of two, someone to convince at least one other person to join them, which is an important social function. Why not two? Three is the smallest number of contributors among which a 2/3 vote can occur).
-- **Why can't a contributor be a member of more than one affinity group?** If contributors could join an unlimited number of affinity groups, nefarious contributors could suppress the vote in the following way: by joining a small affinity group, they could dilute the original members voting share, making the voting threshold impossible to pass.  With that option off the table, the question becomes: how many affinity groups *should* you be allowed to join? Any upper limit would be a magic constant. Following a zero-one-infinity elegance heuristic, a contributor can be a member of either zero or one affinity groups.
+- **Why can't a contributor be a member of more than one affinity group?** If contributors could join an unlimited number of affinity groups, nefarious contributors could suppress the vote in the following way: by joining a small affinity group, they could dilute the original members voting share, making the voting threshold impossible to pass. With the option of unlimited affinity group memberships off the table, the question becomes: how many affinity groups *should* a contributor be allowed to join? Following a zero-one-infinity elegance heuristic, a contributor can be a member of either zero or one affinity groups.
 - **What happens when there are too many affinity groups, or too many delegates in the Guiding Body?** [[Hierarchy should emerge naturally, and percolate up always from the grassroots]]. If ever there should come a time when the Guiding Body has too many delegates such that it must shrink to become more efficient, or if there are ever too many affinity groups, affinity groups should vote to split.
 - **What about quorum?** When two-thirds of the voting weight votes yes, a proposal passes immediately. There is no notion of quorum.
 - **What about contributors who don't participate in governance?** Some affinity groups  may have contributors who don't vote; some may choose to ban those free riders. Occasionally, an affinity group may be unable to meet the 2/3 voting threshold because too many of its members are not voting. In that case, contributors who *do* vote should leave the affinity group and join (or form) a new one. If the contributors who remain in the group are more than three, it is on them to elect a delegate. If they do not do so, they will not be represented.  If the remaining group is less than three, the affinity group is dissolved, and it is on those contributors to join a new one. If they fail to do so, they will not be represented. Note, however, that contributors *may* be part of no affinity group; they will remain contributors unless the Guiding Body expels them.
