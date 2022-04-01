@@ -27,7 +27,7 @@ Test cases:
 - Leaving a three-contributor affinity group dissolves it and recalls its delegate.
 - With a proposal that passes a vote (see Voting on proposals):
 	- An affinity group can elect and recall a single delegate selected from among its members to and from the Guiding Body. 
-	- An affinity groups can ban/exile a member from the affinity group.
+	- An affinity groups can ban a member from the affinity group.
 	- An affinity group can add a contributor outside the rhizome to their affinity group.
 	- Affinity groups can vote to "nest" - to split into multiple, lower-level affinity groups, each of which elects a delegate to the higher-level affinity group.
 	
