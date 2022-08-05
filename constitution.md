@@ -146,11 +146,15 @@ and society.
 
 ## Enforceability and Changing the Constitution.
 
-1.  ## **Limitations of This Constitution**. DAO DAO recognizes that certain decisions cannot be made on-chain. As such, contributors and Founding Members may carry out off-chain decisions and initiatives without DAO approval, when appropriate. If the necessity of such initiatives are called into question, this DAO may vote, through validly passed DPs, to suspend the activity or restrict funds that are being used in furtherance of said activity. 
+1.  **Limitations of This Constitution**. DAO DAO recognizes that certain decisions cannot be made on-chain. As such, contributors and Founding Members may carry out off-chain decisions and initiatives without DAO approval, when appropriate. If the necessity of such initiatives are called into question, this DAO may vote, through validly passed DPs, to suspend the activity or restrict funds that are being used in furtherance of said activity. 
 
-2.  ## **Changes to this Constitution**. This Constitution can only be changed by a valid Quorum of \$DAO tokens, with a 2/3 majority vote. Any Member may propose an amendment. An approved amendment to this Constitution shall become effective immediately following approval unless such amendment expressly provides otherwise.
+2.  **Changes to this Constitution**. This Constitution can only be changed by a valid Quorum of \$DAO tokens, with a 2/3 majority vote. Any Member may propose an amendment. An approved amendment to this Constitution shall become effective immediately following approval unless such amendment expressly provides otherwise.
 
-3.  ## **Interpretation**. This DAO shall have the power to interpret this Constitution, apply such interpretations to particular circumstances, and adopt policies in furtherance of such interpretations, provided that all such actions are reasonable and consistent.
+3.  **Interpretation**. This DAO shall have the power to interpret this Constitution, apply such interpretations to particular circumstances, and adopt policies in furtherance of such interpretations, provided that all such actions are reasonable and consistent.
 
-NOTE: The Founding Members should sign this document using their real or
-pseudonymous names.
+Signed by the Founding Members:
+
+- meow
+- ekez
+- elsehow
+- case
