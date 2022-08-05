@@ -156,5 +156,6 @@ Signed by the Founding Members:
 
 - meow
 - ekez
+- noah
 - elsehow
 - case
