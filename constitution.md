@@ -160,3 +160,5 @@ Signed by the Founding Members:
 - noah
 - elsehow
 - case
+- callum
+- baoskees
