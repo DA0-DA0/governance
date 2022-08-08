@@ -172,3 +172,4 @@ Signed by the Founding Members:
 - case
 - callum
 - baoskees
+- bluenote
