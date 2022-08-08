@@ -13,12 +13,12 @@ of life on Earth and beyond for humans and their more-than-human kin.
 The mission of DAO DAO is to build better governance systems. DAO DAO
 provides tools to build decentralized autonomous organizations. As DAO DAO
 continues to grow and refine its purpose, it will offer better and more
-useful tools to all those who wish to use them. Imagine a world where a
-decentralized network of individuals around the world can organize in a
-programmatically coordinated, transparent, and permissionless way, in real
-time. To arrive at this future, we ("the "Founding Members") must clearly
-set forth DAO DAO's guiding principles and structure in this document. This
-makes our intentions clear up front and aims to prevent bad actors from
+useful tools to all those who wish to use them. Imagine a world in which
+decentralized networks of individuals around the world can organize in a
+coordinated, transparent, and permissionless way, in real time. To arrive 
+at this future, we ("the "Founding Members") must clearly set forth 
+DAO DAO's guiding principles and structure in this document. This document
+aims to make our intentions clear up front and deter bad actors from
 co-opting this project.
 
 ### Building Robust and Decentralized Systems
