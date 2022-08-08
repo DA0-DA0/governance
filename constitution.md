@@ -11,28 +11,27 @@ of life on Earth and beyond for humans and their more-than-human kin.
 ### Tools to Make Life Better
 
 The mission of DAO DAO is to build better governance systems. DAO DAO
-provides tools to build decentralized autonomous organizations. Ideally,
-as DAO DAO continues to grow and refine its purpose, it will offer
-better and more useful tools to all those who wish to use them. Imagine
-a day when a natural disaster strikes and a decentralized network of
-individuals around the world can respond by organizing a
-programmatically coordinated, transparent, permissionless relief effort
-in real time. To arrive at this future, we ("the "Founding Members")
-must clearly set forth DAO DAO's guiding principles and structure in
-this document. This makes our intentions clear up front and aims to
-prevent bad actors from co-opting this project.
+provides tools to build decentralized autonomous organizations. As DAO DAO
+continues to grow and refine its purpose, it will offer better and more
+useful tools to all those who wish to use them. Imagine a world where a
+decentralized network of individuals around the world can organize in a
+programmatically coordinated, transparent, and permissionless way, in real
+time. To arrive at this future, we ("the "Founding Members") must clearly
+set forth DAO DAO's guiding principles and structure in this document. This
+makes our intentions clear up front and aims to prevent bad actors from
+co-opting this project.
 
 ### Building Robust and Decentralized Systems
 
 The Founding Members will include the DAO DAO community in the decision
 making process for all proposals. One way this will be done is to make
-signaling proposals. After a signaling proposal is made, community
-feedback can be collected and subsequently reflected in an official
-proposal. This will allow contributors to understand what they are
-working towards, aligning the incentives of all contributors. As DAO DAO
-grows to include more contributors, we hope that our governance
-processes will reflect our growth by allowing everyone who contributes
-to DAO DAO to meaningfully participate in governance.
+signaling proposals. After a signaling proposal is made, community feedback
+can be collected and subsequently reflected in an official proposal. This
+will allow contributors to understand what they are working towards,
+aligning the incentives of all contributors. As DAO DAO grows to include
+more contributors, our governance process will mature. A good governance
+process will allow everyone who contributes to DAO DAO to meaningfully
+participate.
 
 ### Living Document
 
@@ -118,13 +117,11 @@ and society.
          staked \$DAO outstanding at the time of the vote in question.
 
     b.  **Making DAO Proposals**. Any Member can propose a DAO Proposal
-         ("DP") so long as they have the requisite number of \$DAO
-         tokens to bring a proposal (a "Proposal Deposit"). This
-         Proposal Deposit will be refunded if, and only if, said DP is
-         passed by DAO DAO. The initial Proposal Deposit will be set by
-         DAO DAO and can be changed by majority vote. DAO DAO will
-         determine how voting works through DAO DAO governance and all
-         relevant information will be stored on-chain.
+         ("DP") so long as they have the requisite number of \$DAO tokens
+         to bring a proposal (a "Proposal Deposit"). The initial Proposal
+         Deposit will be set by DAO DAO and can be changed by majority
+         vote. DAO DAO will determine how voting works through DAO DAO
+         governance and all relevant information will be stored on-chain.
 
     c.  **Validly Passed DAO Proposals**. A validly passed DAO Proposal
          shall be defined as a validly brought DAO Proposal that passes
@@ -146,11 +143,24 @@ and society.
 
 ## Enforceability and Changing the Constitution.
 
-1.  **Limitations of This Constitution**. DAO DAO recognizes that certain decisions cannot be made on-chain. As such, contributors and Founding Members may carry out off-chain decisions and initiatives without DAO approval, when appropriate. If the necessity of such initiatives are called into question, this DAO may vote, through validly passed DPs, to suspend the activity or restrict funds that are being used in furtherance of said activity. 
+1.  **Limitations of This Constitution**. DAO DAO recognizes that certain
+    decisions cannot be made on-chain. As such, contributors and Founding
+    Members may carry out off-chain decisions and initiatives without DAO
+    approval, when appropriate. If the necessity of such initiatives are
+    called into question, this DAO may vote, through validly passed DPs, to
+    suspend the activity or restrict funds that are being used in
+    furtherance of said activity.
 
-2.  **Changes to this Constitution**. This Constitution can only be changed by a valid Quorum of \$DAO tokens, with a 2/3 majority vote. Any Member may propose an amendment. An approved amendment to this Constitution shall become effective immediately following approval unless such amendment expressly provides otherwise.
+2.  **Changes to this Constitution**. This Constitution can only be changed
+    by a valid Quorum of \$DAO tokens, with a 2/3 majority vote. Any Member
+    may propose an amendment. An approved amendment to this Constitution
+    shall become effective immediately following approval unless such
+    amendment expressly provides otherwise.
 
-3.  **Interpretation**. This DAO shall have the power to interpret this Constitution, apply such interpretations to particular circumstances, and adopt policies in furtherance of such interpretations, provided that all such actions are reasonable and consistent.
+3.  **Interpretation**. This DAO shall have the power to interpret this
+    Constitution, apply such interpretations to particular circumstances,
+    and adopt policies in furtherance of such interpretations, provided
+    that all such actions are reasonable and consistent.
 
 #### Signatures
 Signed by the Founding Members:
