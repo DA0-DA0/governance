@@ -163,8 +163,6 @@ and society.
     that all such actions are reasonable and consistent.
 
 #### Signatures
-Signed by the Founding Members:
-
 - meow
 - ekez
 - noah
