@@ -175,3 +175,4 @@ Signed by the Founding Members:
 - bluenote
 - de-husk
 - bmorphism
+- maxjuno
