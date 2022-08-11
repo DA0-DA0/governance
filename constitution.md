@@ -193,4 +193,5 @@ and society.
 - grubcowboy
 - avicenna
 - mamimisan
+- ethanfrey
 - cypherape
