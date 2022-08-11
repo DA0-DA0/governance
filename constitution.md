@@ -130,7 +130,7 @@ and society.
          specified in this Constitution.
 
     d.  **Quorum**. Quorum shall initially be set by DAO DAO and can be
-         changed by majority vote..
+         changed by majority vote.
 
 3.  **Code of Conduct**. Harassment, bullying, hate speech, racism,
      sexism, sexual gratuitousness, ageism, homophobia, transphobia,
