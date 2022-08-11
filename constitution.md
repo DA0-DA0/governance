@@ -179,3 +179,4 @@ Signed by the Founding Members:
 - trevorjtclarke
 - kevingarrison
 - ebaker
+- modern-edamame
