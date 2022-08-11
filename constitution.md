@@ -176,3 +176,6 @@ Signed by the Founding Members:
 - de-husk
 - bmorphism
 - maxjuno
+- trevorjtclarke
+- kevingarrison
+- ebaker
