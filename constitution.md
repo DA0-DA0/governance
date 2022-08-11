@@ -183,3 +183,5 @@ Signed by the Founding Members:
 - rakataprime
 - ben2x4
 - gavindoughtie
+- the-frey
+- HorizonsLaw
