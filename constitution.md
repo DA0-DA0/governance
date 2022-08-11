@@ -163,7 +163,7 @@ and society.
     that all such actions are reasonable and consistent.
 
 #### Signatures
-- meow
+- jakehartnell
 - ekez
 - noah
 - elsehow
