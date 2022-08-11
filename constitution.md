@@ -180,3 +180,4 @@ Signed by the Founding Members:
 - kevingarrison
 - ebaker
 - modern-edamame
+- rakataprime
