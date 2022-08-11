@@ -182,4 +182,5 @@ Signed by the Founding Members:
 - modern-edamame
 - rakataprime
 - ben2x4
+- the-frey
 - HorizonsLaw
