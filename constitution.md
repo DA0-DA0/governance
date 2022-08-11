@@ -163,7 +163,7 @@ and society.
     that all such actions are reasonable and consistent.
 
 #### Signatures
-- meow
+- jakehartnell
 - ekez
 - noah
 - elsehow
@@ -184,4 +184,6 @@ and society.
 - the-frey
 - HorizonsLaw
 - pyramation
+- nullmames
+- jackzampolin
 - vernonjohnson
