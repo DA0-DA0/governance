@@ -196,5 +196,6 @@ and society.
 - ethanfrey
 - cypherape
 - nicolaslara
+-jahedmomand
 - whalelephant
 - sascha1337
