@@ -186,7 +186,6 @@ and society.
 - HorizonsLaw
 - pyramation
 - nullmames
-- sascha1337
 - jackzampolin
 - vernonjohnson
 - onewhiskeypls
@@ -196,3 +195,6 @@ and society.
 - mamimisan
 - ethanfrey
 - cypherape
+- nicolaslara
+- whalelephant
+- sascha1337
