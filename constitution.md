@@ -197,3 +197,5 @@ and society.
 - cypherape
 - nicolaslara
 -jahedmomand
+- whalelephant
+- sascha1337
